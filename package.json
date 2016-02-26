@@ -1,0 +1,15 @@
+{
+  "name": "tweets",
+  "version": "1.0.0",
+  "description": "Fetching Twitter Data ",
+  "main": "twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chrisson",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.2.3",
+    "twitter": "^1.2.5"
+  }
+}
